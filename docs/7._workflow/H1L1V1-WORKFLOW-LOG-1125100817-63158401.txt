@@ -1,3 +1,0 @@
-2019-12-02 15:38:37,778:INFO : Created log file /work/cdcapano/projects/open_catalog/2-ogc/combined_posteriors/combine_posteriors2_output/results/7._workflow/H1L1V1-WORKFLOW-LOG-1125100817-63158401.txt
-2019-12-02 15:38:50,598:INFO : Entering versioning module
-2019-12-02 15:39:08,535:INFO : Leaving versioning module
